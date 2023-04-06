@@ -1,4 +1,4 @@
-WORKSHOP_TITLE
+What they forgot to teach you about R
 ================
 
 ### posit::conf 2023
