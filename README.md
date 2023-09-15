@@ -12,8 +12,7 @@ by Shannon Pileggi + E. David Aja
 
 :spiral_calendar: September 17, 2023  
 :alarm_clock:     09:00 - 17:00  
-:hotel:           ROOM TBD  
-:writing_hand:    [pos.it/conf](http://pos.it/conf)
+:writing_hand:    [pos.it/conf](https://pos.it/conf)
 
 -----
 
@@ -47,7 +46,7 @@ This course will be appropriate for you if you answer yes to these questions:
 
 | Time          | Activity                                        | Instructor      |
 |:--------------|:------------------------------------------------|:----------------|
-| 09:00 - 10:30 | [Introduction](), [Project-oriented workflows](https://rstats-wtf.github.io/wtf-project-oriented-workflow-slides/#/title-slide) | Shannon Pileggi |
+| 09:00 - 10:30 | [Introduction](https://rstats-wtf.github.io/wtf-introduction), [Project-oriented workflows](https://rstats-wtf.github.io/wtf-project-oriented-workflow-slides/#/title-slide) | Shannon Pileggi |
 | 10:30 - 11:00 | *Coffee break*                                  |                 |
 | 11:00 - 12:30 | [Project-oriented workflows]() | Shannon Pileggi |
 | 12:30 - 13:30 | *Lunch break*                                   |                 |
@@ -55,7 +54,12 @@ This course will be appropriate for you if you answer yes to these questions:
 | 15:00 - 15:30 | *Coffee break*                                  |                 |
 | 15:30 - 17:00 | [Version control with git & GitHub](https://rstats-wtf.github.io/wtf-version-control-slides/)                | David Aja      |
 
-## Instructors
+## Completion survey
+
+
+At the conclusion of the workshop, please submit <https://pos.it/conf-workshop-survey>.
+
+Your feedback is crucial! Data from the survey informs curriculum and format decisions for future conf workshops, and we really appreciate you taking the time to provide it.## Instructors
 
 [Shannon Pileggi](https://www.pipinghotdata.com/) (she/her) is a Lead Data Scientist at The Prostate Cancer Clinical Trials Consortium, a frequent blogger, and a member of the R-Ladies Global leadership team. She enjoys automating data wrangling and data outputs, and making both data insights and learning new material digestible.
 
