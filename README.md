@@ -48,7 +48,7 @@ This course will be appropriate for you if you answer yes to these questions:
 |:--------------|:------------------------------------------------|:----------------|
 | 09:00 - 10:30 | [Introduction](https://rstats-wtf.github.io/wtf-introduction), [Project-oriented workflows](https://rstats-wtf.github.io/wtf-project-oriented-workflow-slides/#/title-slide) | Shannon Pileggi |
 | 10:30 - 11:00 | *Coffee break*                                  |                 |
-| 11:00 - 12:30 | [Project-oriented workflows]() | Shannon Pileggi |
+| 11:00 - 12:30 | [Project-oriented workflows](https://rstats-wtf.github.io/wtf-project-oriented-workflow-slides/#/title-slide) | Shannon Pileggi |
 | 12:30 - 13:30 | *Lunch break*                                   |                 |
 | 13:30 - 15:00 | [Version control with git & GitHub](https://rstats-wtf.github.io/wtf-version-control-slides/)                        | David Aja  |
 | 15:00 - 15:30 | *Coffee break*                                  |                 |
